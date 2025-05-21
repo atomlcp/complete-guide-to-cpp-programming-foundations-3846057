@@ -1,5 +1,5 @@
 // Complete Guide to C++ Programming Foundations
-// Exercise 00_03
+// Exercise 00_03 mod
 // Using the Exercise Files in GitHub Codespaces, by Eduardo Corpeño 
 
 #include <iostream>
@@ -14,7 +14,7 @@ int main(){
     
     result = num_1 + num_2;
     
-    std::cout << "The result of the addition is " << result << std::endl;
+     std::cout << "The result of the addition is " << result << std::endl;
     
     std::cout << std::endl << std::endl;
     return 0;
